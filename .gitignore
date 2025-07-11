@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# Node-related (in case you ever add build tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Environment and build artifacts
+.env
+.env.local
+.env.*.local
+dist/
+build/
+.cache/
+
+# Cloudflare Pages preview cache (if ever used locally)
+.cloudflare/
+
+# Temporary files
+*.swp
+*~
