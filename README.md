@@ -18,7 +18,7 @@ mx: jlwav-com.mail.protection.outlook.com
 
 ## Mode
 
-Currently set to `testing`. Will move to `enforce` after validation.
+Currently set to `enforce`.
 
 ## Resources
 
